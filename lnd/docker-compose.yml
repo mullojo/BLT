@@ -1,0 +1,33 @@
+version: '3.9'
+
+volumes:
+  lnd:
+    name: lnd
+
+networks: 
+  party:
+   name: party
+   external: true
+
+services:
+  lnd:
+    container_name: lnd
+    image: lnd
+    command: ["lnd"]
+    # cpus: 0.1
+    # network_mode: host
+    hostname: lnd
+    user: "0:0"
+    # build:
+    #   context: ./
+    #   dockerfile: Dockerfile
+    networks:
+      - party
+    ports:
+      # external:internal
+       - "8080:8080"
+       - "9735:9735"
+       - "10009:10009"
+       - "11111:11111"
+    volumes:
+      - lnd:/root/.lnd

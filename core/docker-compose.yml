@@ -1,0 +1,32 @@
+version: '3.9'
+
+volumes:
+  core:
+    name: core
+
+networks: 
+  party:
+   name: party
+
+services:
+  core:
+    container_name: core
+    image: core
+    command: bitcoind -regtest
+    #cpus: 0.1
+    #network_mode: host
+    hostname: core
+    networks:
+      - party
+    ports:
+      # external:internal
+      - "18888:18888"
+      - "18443:18443"
+      - "18444:18444"
+      - "18445:18445"
+      - "28332:28332"
+      - "28333:28333"
+    volumes:
+      - core:/root/.bitcoin
+      - ./data/a:/root/.bitcoin
+      - ./bitcoin.conf:/root/.bitcoin/bitcoin.conf

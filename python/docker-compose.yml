@@ -1,0 +1,6 @@
+version: '3.9'
+
+services:
+  py:
+    image: py
+    command: python rpcauth.py bobby

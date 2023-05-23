@@ -1,0 +1,37 @@
+version: '3.9'
+
+volumes:
+  tapd:
+    name: tapd
+  lnd:
+    name: lnd
+    external: true
+
+networks: 
+  party:
+    name: party
+    external: true
+
+services:
+  tapd:
+    container_name: tapd
+    image: tapd
+    command: tapd
+    #cpus: 0.1
+    #network_mode: host
+    hostname: tapd
+    user: "0:0"
+    # build:
+    #   context: ./
+    #   dockerfile: Dockerfile
+    networks:
+      - party
+    ports:
+      - "8089:8089"
+      - "10029:10029"
+    volumes:
+      - lnd:/root/.lnd/
+      - tapd:/root/.tapd/
+      - lnd:/home/you/.lnd/
+      - tapd:/home/you/.tapd/
+      #- ./taro.conf:/root/.taro/taro.conf
