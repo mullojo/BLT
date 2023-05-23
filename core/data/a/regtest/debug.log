@@ -10291,3 +10291,241 @@ CTransaction(hash=af645fafca, ver=2, vin.size=1, vout.size=2, nLockTime=301)
 2023-05-23T03:33:08Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2614531 seconds ago)
 2023-05-23T03:43:38Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2615161 seconds ago)
 2023-05-23T03:54:08Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2615791 seconds ago)
+2023-05-23T04:03:08Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.3f8d
+2023-05-23T04:04:38Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2616421 seconds ago)
+2023-05-23T05:00:06Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2619749 seconds ago)
+2023-05-23T05:00:06Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.b2eb
+2023-05-23T05:17:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2620820 seconds ago)
+2023-05-23T05:17:57Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.41cc
+2023-05-23T05:35:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2621900 seconds ago)
+2023-05-23T05:35:57Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.85f9
+2023-05-23T06:00:26Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2623369 seconds ago)
+2023-05-23T06:00:26Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.7300
+2023-05-23T06:18:40Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2624463 seconds ago)
+2023-05-23T06:18:40Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.ea48
+2023-05-23T06:40:54Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2625797 seconds ago)
+2023-05-23T06:40:54Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.960f
+2023-05-23T06:56:58Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2626761 seconds ago)
+2023-05-23T06:56:58Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.c2b9
+2023-05-23T07:12:58Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2627721 seconds ago)
+2023-05-23T07:12:58Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.d5cc
+2023-05-23T07:30:14Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2628757 seconds ago)
+2023-05-23T07:30:14Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.9903
+2023-05-23T07:48:30Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2629853 seconds ago)
+2023-05-23T07:48:30Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.cbc7
+2023-05-23T08:07:59Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2631022 seconds ago)
+2023-05-23T08:07:59Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.75ec
+2023-05-23T08:27:29Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2632192 seconds ago)
+2023-05-23T08:27:29Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.401b
+2023-05-23T08:45:40Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2633283 seconds ago)
+2023-05-23T08:45:40Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.90ca
+2023-05-23T09:03:00Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2634323 seconds ago)
+2023-05-23T09:03:00Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.5f25
+2023-05-23T09:21:55Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2635458 seconds ago)
+2023-05-23T09:21:55Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.8d74
+2023-05-23T09:43:11Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2636734 seconds ago)
+2023-05-23T09:43:11Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.3102
+2023-05-23T09:59:56Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2637739 seconds ago)
+2023-05-23T09:59:56Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.f590
+2023-05-23T10:17:03Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2638766 seconds ago)
+2023-05-23T10:17:03Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.e7d4
+2023-05-23T10:35:02Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2639845 seconds ago)
+2023-05-23T10:35:02Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.1d87
+2023-05-23T10:52:45Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2640908 seconds ago)
+2023-05-23T10:52:45Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.fb63
+2023-05-23T11:10:56Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2641999 seconds ago)
+2023-05-23T11:10:56Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.78a5
+2023-05-23T11:27:34Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2642997 seconds ago)
+2023-05-23T11:27:34Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.0ba0
+2023-05-23T11:44:52Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2644035 seconds ago)
+2023-05-23T11:44:52Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.2fe2
+2023-05-23T12:00:54Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2644997 seconds ago)
+2023-05-23T12:00:54Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.44c0
+2023-05-23T12:18:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2646080 seconds ago)
+2023-05-23T12:18:57Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.6755
+2023-05-23T12:35:41Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2647084 seconds ago)
+2023-05-23T12:35:41Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.aff7
+2023-05-23T12:51:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2648060 seconds ago)
+2023-05-23T12:51:57Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.a9ed
+2023-05-23T13:09:05Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2649088 seconds ago)
+2023-05-23T13:09:05Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.33bd
+2023-05-23T13:27:50Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2650213 seconds ago)
+2023-05-23T13:27:50Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.180b
+2023-05-23T13:44:43Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2651226 seconds ago)
+2023-05-23T13:44:43Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.a074
+2023-05-23T14:00:05Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2652148 seconds ago)
+2023-05-23T14:00:05Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.1d95
+2023-05-23T14:17:15Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2653178 seconds ago)
+2023-05-23T14:17:15Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.8362
+2023-05-23T14:33:18Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2654141 seconds ago)
+2023-05-23T14:33:18Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.a305
+2023-05-23T14:44:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2654840 seconds ago)
+2023-05-23T14:58:32Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2655655 seconds ago)
+2023-05-23T14:58:32Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.4eb4
+2023-05-23T15:14:41Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2656624 seconds ago)
+2023-05-23T15:14:41Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.5307
+2023-05-23T15:27:31Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2657394 seconds ago)
+2023-05-23T15:45:57Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2658500 seconds ago)
+2023-05-23T15:45:57Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.d530
+2023-05-23T16:04:20Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2659603 seconds ago)
+2023-05-23T16:04:20Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.8e28
+2023-05-23T16:20:17Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2660560 seconds ago)
+2023-05-23T16:20:17Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.76b5
+2023-05-23T16:41:41Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2661844 seconds ago)
+2023-05-23T16:41:41Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.3134
+2023-05-23T16:59:49Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2662932 seconds ago)
+2023-05-23T16:59:49Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.4242
+2023-05-23T17:17:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2663986 seconds ago)
+2023-05-23T17:17:23Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.4932
+2023-05-23T17:34:03Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2664986 seconds ago)
+2023-05-23T17:34:03Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.15ed
+2023-05-23T17:51:51Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2666054 seconds ago)
+2023-05-23T17:51:51Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.bc82
+2023-05-23T18:08:15Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2667038 seconds ago)
+2023-05-23T18:08:15Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.9c41
+2023-05-23T18:25:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2668096 seconds ago)
+2023-05-23T18:25:53Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.b396
+2023-05-23T18:44:29Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2669212 seconds ago)
+2023-05-23T18:44:29Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.706f
+2023-05-23T19:00:39Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2670182 seconds ago)
+2023-05-23T19:00:39Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.e824
+2023-05-23T19:18:05Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2671228 seconds ago)
+2023-05-23T19:18:05Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.3e44
+2023-05-23T19:31:13Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2672016 seconds ago)
+2023-05-23T19:33:21Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.0067
+2023-05-23T19:41:36Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2672639 seconds ago)
+2023-05-23T19:46:16Z tor: Thread interrupt
+2023-05-23T19:46:16Z opencon thread exit
+2023-05-23T19:46:16Z addcon thread exit
+2023-05-23T19:46:16Z net thread exit
+2023-05-23T19:46:16Z Shutdown: In progress...
+2023-05-23T19:46:16Z torcontrol thread exit
+2023-05-23T19:46:16Z msghand thread exit
+2023-05-23T19:46:17Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/peers.d64b
+2023-05-23T19:46:17Z DumpAnchors: Flush 0 outbound block-relay-only peer addresses to anchors.dat started
+2023-05-23T19:46:17Z ERROR: SerializeFileDB: Failed to open file /root/.bitcoin/regtest/anchors.c233
+2023-05-23T19:46:17Z DumpAnchors: Flush 0 outbound block-relay-only peer addresses to anchors.dat completed (0.00s)
+2023-05-23T19:46:17Z scheduler thread exit
+2023-05-23T19:46:17Z Failed to write fee estimates to /root/.bitcoin/regtest/fee_estimates.dat. Continue anyway.
+2023-05-23T19:46:17Z *** System error while flushing: boost::filesystem::space: No such file or directory: "/root/.bitcoin/regtest/blocks"
+2023-05-23T19:46:17Z Error: A fatal internal error occurred, see debug.log for details
+2023-05-23T19:46:17Z ForceFlushStateToDisk: failed to flush state (System error while flushing: boost::filesystem::space: No such file or directory: "/root/.bitcoin/regtest/blocks")
+2023-05-23T19:46:17Z *** System error while flushing: boost::filesystem::space: No such file or directory: "/root/.bitcoin/regtest/blocks"
+2023-05-23T19:46:17Z Error: A fatal internal error occurred, see debug.log for details
+2023-05-23T19:46:17Z ForceFlushStateToDisk: failed to flush state (System error while flushing: boost::filesystem::space: No such file or directory: "/root/.bitcoin/regtest/blocks")
+2023-05-23T19:46:21Z BerkeleyEnvironment::Close: Error 2 closing database environment: No such file or directory
+2023-05-23T19:46:21Z [love] Releasing wallet
+2023-05-23T19:46:22Z Shutdown: Unable to remove PID file: File does not exist
+2023-05-23T19:46:22Z Shutdown: done
+
+
+
+
+
+2023-05-23T19:47:15Z Bitcoin Core version v22.0 (release build)
+2023-05-23T19:47:15Z Validating signatures for all blocks.
+2023-05-23T19:47:15Z Setting nMinimumChainWork=0000000000000000000000000000000000000000000000000000000000000000
+2023-05-23T19:47:15Z Using the 'sse4(1way),sse41(4way),avx2(8way)' SHA256 implementation
+2023-05-23T19:47:15Z Using RdRand as an additional entropy source
+2023-05-23T19:47:15Z Default data directory /root/.bitcoin
+2023-05-23T19:47:15Z Using data directory /root/.bitcoin/regtest
+2023-05-23T19:47:15Z Config file: /root/.bitcoin/bitcoin.conf
+2023-05-23T19:47:15Z Config file arg: fallbackfee="0.0001"
+2023-05-23T19:47:15Z Config file arg: maxconnections="15"
+2023-05-23T19:47:15Z Config file arg: maxmempool="200"
+2023-05-23T19:47:15Z Config file arg: maxreceivebuffer="2500"
+2023-05-23T19:47:15Z Config file arg: maxsendbuffer="500"
+2023-05-23T19:47:15Z Config file arg: minrelaytxfee="0.0001"
+2023-05-23T19:47:15Z Config file arg: rpcauth=****
+2023-05-23T19:47:15Z Config file arg: txindex="1"
+2023-05-23T19:47:15Z Config file arg: zmqpubrawblock="tcp://0.0.0.0:28332"
+2023-05-23T19:47:15Z Config file arg: zmqpubrawtx="tcp://0.0.0.0:28333"
+2023-05-23T19:47:15Z Config file arg: [regtest] regtest="1"
+2023-05-23T19:47:15Z Config file arg: [regtest] rpcallowip="172.22.0.0/16"
+2023-05-23T19:47:15Z Config file arg: [regtest] rpcbind=****
+2023-05-23T19:47:15Z Config file arg: [regtest] rpcport="18443,18444,18445,18888,28332,28333"
+2023-05-23T19:47:15Z Command-line arg: regtest=""
+2023-05-23T19:47:15Z Using at most 15 automatic connections (1048576 file descriptors available)
+2023-05-23T19:47:15Z Using 16 MiB out of 32/2 requested for signature cache, able to store 524288 elements
+2023-05-23T19:47:15Z Using 16 MiB out of 32/2 requested for script execution cache, able to store 524288 elements
+2023-05-23T19:47:15Z Script verification uses 3 additional threads
+2023-05-23T19:47:15Z scheduler thread start
+2023-05-23T19:47:15Z WARNING: the RPC server is not safe to expose to untrusted networks such as the public internet
+2023-05-23T19:47:15Z HTTP: creating work queue of depth 16
+2023-05-23T19:47:15Z Using random cookie authentication.
+2023-05-23T19:47:15Z Generated RPC authentication cookie /root/.bitcoin/regtest/.cookie
+2023-05-23T19:47:15Z Using rpcauth authentication.
+2023-05-23T19:47:15Z HTTP: starting 4 worker threads
+2023-05-23T19:47:15Z Using wallet directory /root/.bitcoin/regtest/wallets
+2023-05-23T19:47:15Z init message: Verifying wallet(s)…
+2023-05-23T19:47:15Z init message: Loading banlist…
+2023-05-23T19:47:15Z SetNetworkActive: true
+2023-05-23T19:47:15Z Using /16 prefix for IP bucketing
+2023-05-23T19:47:15Z Cache configuration:
+2023-05-23T19:47:15Z * Using 2.0 MiB for block index database
+2023-05-23T19:47:15Z * Using 56.0 MiB for transaction index database
+2023-05-23T19:47:15Z * Using 8.0 MiB for chain state database
+2023-05-23T19:47:15Z * Using 384.0 MiB for in-memory UTXO set (plus up to 190.7 MiB of unused mempool space)
+2023-05-23T19:47:15Z init message: Loading block index…
+2023-05-23T19:47:15Z Switching active chainstate to Chainstate [ibd] @ height -1 (null)
+2023-05-23T19:47:15Z Opening LevelDB in /root/.bitcoin/regtest/blocks/index
+2023-05-23T19:47:15Z Opened LevelDB successfully
+2023-05-23T19:47:15Z Using obfuscation key for /root/.bitcoin/regtest/blocks/index: 0000000000000000
+2023-05-23T19:47:15Z LoadBlockIndexDB: last block file = 0
+2023-05-23T19:47:15Z LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=405, size=105114, heights=0...304, time=2011-02-02...2023-04-22)
+2023-05-23T19:47:15Z Checking all blk files are present...
+2023-05-23T19:47:15Z Opening LevelDB in /root/.bitcoin/regtest/chainstate
+2023-05-23T19:47:15Z Opened LevelDB successfully
+2023-05-23T19:47:15Z Using obfuscation key for /root/.bitcoin/regtest/chainstate: f6f0dc2df3957779
+2023-05-23T19:47:15Z Loaded best chain: hashBestChain=7f9275ab62d8483da15dc5715bcc88b3024a58f4f7fc1b81e1dfc7680d39aaad height=304 date=2023-04-22T20:45:07Z progress=1.000000
+2023-05-23T19:47:15Z init message: Verifying blocks…
+2023-05-23T19:47:15Z Verifying last 6 blocks at level 3
+2023-05-23T19:47:15Z [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2023-05-23T19:47:15Z No coin database inconsistencies in last 6 blocks (8 transactions)
+2023-05-23T19:47:15Z  block index             159ms
+2023-05-23T19:47:15Z Opening LevelDB in /root/.bitcoin/regtest/indexes/txindex
+2023-05-23T19:47:15Z Opened LevelDB successfully
+2023-05-23T19:47:15Z Using obfuscation key for /root/.bitcoin/regtest/indexes/txindex: 0000000000000000
+2023-05-23T19:47:15Z txindex thread start
+2023-05-23T19:47:15Z txindex is enabled at height 304
+2023-05-23T19:47:15Z txindex thread exit
+2023-05-23T19:47:15Z block tree size = 405
+2023-05-23T19:47:15Z nBestHeight = 304
+2023-05-23T19:47:15Z loadblk thread start
+2023-05-23T19:47:15Z torcontrol thread start
+2023-05-23T19:47:15Z Bound to 127.0.0.1:18445
+2023-05-23T19:47:15Z Bound to [::]:18444
+2023-05-23T19:47:15Z Imported mempool transactions from disk: 0 succeeded, 0 failed, 0 expired, 0 already there, 0 waiting for initial broadcast
+2023-05-23T19:47:15Z loadblk thread exit
+2023-05-23T19:47:15Z Bound to 0.0.0.0:18444
+2023-05-23T19:47:15Z init message: Loading P2P addresses…
+2023-05-23T19:47:15Z Loaded 0 addresses from peers.dat  3ms
+2023-05-23T19:47:15Z Missing or invalid file /root/.bitcoin/regtest/anchors.dat
+2023-05-23T19:47:15Z 0 block-relay-only anchors will be tried for connections.
+2023-05-23T19:47:15Z init message: Starting network threads…
+2023-05-23T19:47:15Z net thread start
+2023-05-23T19:47:15Z dnsseed thread start
+2023-05-23T19:47:15Z 0 addresses found from DNS seeds
+2023-05-23T19:47:15Z dnsseed thread exit
+2023-05-23T19:47:15Z msghand thread start
+2023-05-23T19:47:15Z opencon thread start
+2023-05-23T19:47:15Z addcon thread start
+2023-05-23T19:47:15Z init message: Done loading
+2023-05-23T19:48:16Z Adding fixed seeds as 60 seconds have passed and addrman is empty
+2023-05-23T20:01:48Z Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2023-05-23T20:01:48Z Using wallet /root/.bitcoin/regtest/wallets/love/wallet.dat
+2023-05-23T20:01:48Z BerkeleyEnvironment::Open: LogDir=/root/.bitcoin/regtest/wallets/love/database ErrorFile=/root/.bitcoin/regtest/wallets/love/db.log
+2023-05-23T20:01:48Z init message: Loading wallet…
+2023-05-23T20:01:49Z [love] Wallet File Version = 169900
+2023-05-23T20:01:49Z [love] Keys: 2007 plaintext, 0 encrypted, 2007 w/ metadata, 2007 total. Unknown wallet records: 0
+2023-05-23T20:01:49Z [love] Wallet completed loading in             275ms
+2023-05-23T20:01:49Z [love] keypool added 1 keys (0 internal), size=2000 (1000 internal)
+2023-05-23T20:01:49Z [love] setKeyPool.size() = 2000
+2023-05-23T20:01:49Z [love] mapWallet.size() = 206
+2023-05-23T20:01:49Z [love] m_address_book.size() = 5
+2023-05-23T20:06:55Z [love] keypool reserve 6
+2023-05-23T20:06:55Z [love] keypool keep 6
+2023-05-23T20:06:55Z CreateNewBlock(): block weight: 892 txs: 0 fees: 0 sigops 400
+2023-05-23T20:06:55Z Leaving InitialBlockDownload (latching to false)
+2023-05-23T20:06:55Z UpdateTip: new best=761efa1058fb663a6acd0f1ea4b550b13ffff6a7abfdf549d2cd49a06594a475 height=305 version=0x30000000 log2_work=9.257388 tx=308 date='2023-05-23T20:06:55Z' progress=1.000000 cache=0.0MiB(1txo)
+2023-05-23T20:06:55Z [love] AddToWallet f05264008f34b3230e1fec42f36e640e93d4c9ca27b7a0b33f14823e9eee2d19  new
