@@ -1,0 +1,20 @@
+version: '3.9'
+
+networks: 
+  party:
+   name: party
+
+services:
+  nodejs:
+    container_name: nodejs
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    image: nodejs
+    command: npm start
+    #command: npm run dev
+    ports:
+      - '49160:8080'
+    restart: always
